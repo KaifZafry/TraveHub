@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "from": "Bangalore",
+    "to": "Kolkata",
+    "airline": "Vistara",
+    "departure": "2025-06-22T20:35:23.443442",
+    "arrival": "2025-06-22T23:05:23.443442",
+    "price": 180
+  },
+  {
+    "id": 2,
+    "from": "Delhi",
+    "to": "Chennai",
+    "airline": "Vistara",
+    "departure": "2025-06-29T20:44:23.443487",
+    "arrival": "2025-06-30T01:38:23.443487",
+    "price": 837
+  },
+  {
+    "id": 3,
+    "from": "Bangalore",
+    "to": "Kolkata",
+    "airline": "AirAsia India",
+    "departure": "2025-06-10T21:31:23.443515",
+    "arrival": "2025-06-11T01:34:23.443515",
+    "price": 938
+  },
+  {
+    "id": 4,
+    "from": "Mumbai",
+    "to": "Pune",
+    "airline": "Air India",
+    "departure": "2025-06-16T20:42:23.443534",
+    "arrival": "2025-06-16T23:20:23.443534",
+    "price": 423
+  },
+  {
+    "id": 5,
+    "from": "Ahmedabad",
+    "to": "Mumbai",
+    "airline": "SpiceJet",
+    "departure": "2025-06-20T00:05:23.443553",
+    "arrival": "2025-06-20T05:08:23.443553",
+    "price": 985
+  },
+  {
+    "id": 6,
+    "from": "Ahmedabad",
+    "to": "Kolkata",
+    "airline": "Vistara",
+    "departure": "2025-06-24T22:26:23.443569",
+    "arrival": "2025-06-25T03:02:23.443569",
+    "price": 794
+  },
+  {
+    "id": 7,
+    "from": "Ahmedabad",
+    "to": "Pune",
+    "airline": "SpiceJet",
+    "departure": "2025-07-01T06:21:23.443580",
+    "arrival": "2025-07-01T11:42:23.443580",
+    "price": 916
+  },
+  {
+    "id": 8,
+    "from": "Delhi",
+    "to": "Pune",
+    "airline": "Go First",
+    "departure": "2025-06-28T17:41:23.443599",
+    "arrival": "2025-06-28T21:44:23.443599",
+    "price": 320
+  },
+  {
+    "id": 9,
+    "from": "Bangalore",
+    "to": "Delhi",
+    "airline": "SpiceJet",
+    "departure": "2025-06-14T11:32:23.443620",
+    "arrival": "2025-06-14T17:15:23.443620",
+    "price": 438
+  },
+  {
+    "id": 10,
+    "from": "Chennai",
+    "to": "Bangalore",
+    "airline": "Air India",
+    "departure": "2025-06-23T18:02:23.443638",
+    "arrival": "2025-06-23T22:33:23.443638",
+    "price": 916
+  },
+  {
+    "id": 11,
+    "from": "Bangalore",
+    "to": "Pune",
+    "airline": "Go First",
+    "departure": "2025-06-03T12:58:23.443655",
+    "arrival": "2025-06-03T16:39:23.443655",
+    "price": 218
+  },
+  {
+    "id": 12,
+    "from": "Delhi",
+    "to": "Mumbai",
+    "airline": "AirAsia India",
+    "departure": "2025-06-07T21:24:23.443672",
+    "arrival": "2025-06-07T23:36:23.443672",
+    "price": 733
+  },
+  {
+    "id": 13,
+    "from": "Ahmedabad",
+    "to": "Chennai",
+    "airline": "Air India",
+    "departure": "2025-06-29T22:35:23.443689",
+    "arrival": "2025-06-30T03:52:23.443689",
+    "price": 720
+  },
+  {
+    "id": 14,
+    "from": "Pune",
+    "to": "Ahmedabad",
+    "airline": "Vistara",
+    "departure": "2025-07-01T20:54:23.443707",
+    "arrival": "2025-07-01T23:27:23.443707",
+    "price": 138
+  },
+  {
+    "id": 15,
+    "from": "Hyderabad",
+    "to": "Pune",
+    "airline": "IndiGo",
+    "departure": "2025-06-07T23:49:23.443725",
+    "arrival": "2025-06-08T02:30:23.443725",
+    "price": 206
+  },
+  {
+    "id": 16,
+    "from": "Delhi",
+    "to": "Kolkata",
+    "airline": "Air India",
+    "departure": "2025-06-07T10:58:23.443741",
+    "arrival": "2025-06-07T15:34:23.443741",
+    "price": 811
+  },
+  {
+    "id": 17,
+    "from": "Bangalore",
+    "to": "Pune",
+    "airline": "AirAsia India",
+    "departure": "2025-06-11T03:53:23.443760",
+    "arrival": "2025-06-11T09:32:23.443760",
+    "price": 536
+  },
+  {
+    "id": 18,
+    "from": "Pune",
+    "to": "Kolkata",
+    "airline": "SpiceJet",
+    "departure": "2025-06-28T07:12:23.443787",
+    "arrival": "2025-06-28T09:12:23.443787",
+    "price": 566
+  },
+  {
+    "id": 19,
+    "from": "Bangalore",
+    "to": "Chennai",
+    "airline": "Go First",
+    "departure": "2025-06-05T14:28:23.443805",
+    "arrival": "2025-06-05T17:58:23.443805",
+    "price": 288
+  },
+  {
+    "id": 20,
+    "from": "Ahmedabad",
+    "to": "Chennai",
+    "airline": "Air India",
+    "departure": "2025-06-22T08:45:23.443823",
+    "arrival": "2025-06-22T13:24:23.443823",
+    "price": 299
+  },
+  {
+    "id": 21,
+    "from": "Chennai",
+    "to": "Kolkata",
+    "airline": "IndiGo",
+    "departure": "2025-06-09T04:04:23.443841",
+    "arrival": "2025-06-09T08:09:23.443841",
+    "price": 737
+  },
+  {
+    "id": 22,
+    "from": "Bangalore",
+    "to": "Hyderabad",
+    "airline": "AirAsia India",
+    "departure": "2025-06-25T09:30:23.443860",
+    "arrival": "2025-06-25T12:04:23.443860",
+    "price": 662
+  },
+  {
+    "id": 23,
+    "from": "Ahmedabad",
+    "to": "Hyderabad",
+    "airline": "SpiceJet",
+    "departure": "2025-07-01T15:34:23.443884",
+    "arrival": "2025-07-01T18:36:23.443884",
+    "price": 978
+  },
+  {
+    "id": 24,
+    "from": "Kolkata",
+    "to": "Delhi",
+    "airline": "Vistara",
+    "departure": "2025-06-12T17:52:23.443902",
+    "arrival": "2025-06-12T21:53:23.443902",
+    "price": 835
+  },
+  {
+    "id": 25,
+    "from": "Ahmedabad",
+    "to": "Kolkata",
+    "airline": "Vistara",
+    "departure": "2025-06-08T11:20:23.443921",
+    "arrival": "2025-06-08T14:17:23.443921",
+    "price": 933
+  },
+  {
+    "id": 26,
+    "from": "Mumbai",
+    "to": "Ahmedabad",
+    "airline": "Vistara",
+    "departure": "2025-06-03T06:16:23.443940",
+    "arrival": "2025-06-03T09:27:23.443940",
+    "price": 448
+  },
+  {
+    "id": 27,
+    "from": "Hyderabad",
+    "to": "Delhi",
+    "airline": "IndiGo",
+    "departure": "2025-06-10T09:40:23.443959",
+    "arrival": "2025-06-10T11:52:23.443959",
+    "price": 378
+  },
+  {
+    "id": 28,
+    "from": "Bangalore",
+    "to": "Kolkata",
+    "airline": "SpiceJet",
+    "departure": "2025-06-14T03:19:23.443979",
+    "arrival": "2025-06-14T05:45:23.443979",
+    "price": 135
+  },
+  {
+    "id": 29,
+    "from": "Chennai",
+    "to": "Hyderabad",
+    "airline": "AirAsia India",
+    "departure": "2025-06-20T12:55:23.443997",
+    "arrival": "2025-06-20T18:25:23.443997",
+    "price": 445
+  },
+  {
+    "id": 30,
+    "from": "Delhi",
+    "to": "Kolkata",
+    "airline": "Vistara",
+    "departure": "2025-06-21T09:27:23.444017",
+    "arrival": "2025-06-21T13:31:23.444017",
+    "price": 416
+  },
+  {
+    "id": 31,
+    "from": "Mumbai",
+    "to": "Chennai",
+    "airline": "Air India",
+    "departure": "2025-06-21T21:32:23.444035",
+    "arrival": "2025-06-22T03:30:23.444035",
+    "price": 231
+  },
+  {
+    "id": 32,
+    "from": "Hyderabad",
+    "to": "Kolkata",
+    "airline": "AirAsia India",
+    "departure": "2025-06-29T21:39:23.444144",
+    "arrival": "2025-06-30T02:46:23.444144",
+    "price": 538
+  },
+  {
+    "id": 33,
+    "from": "Pune",
+    "to": "Chennai",
+    "airline": "IndiGo",
+    "departure": "2025-06-20T11:55:23.444163",
+    "arrival": "2025-06-20T13:59:23.444163",
+    "price": 170
+  },
+  {
+    "id": 34,
+    "from": "Hyderabad",
+    "to": "Delhi",
+    "airline": "AirAsia India",
+    "departure": "2025-06-30T20:16:23.444190",
+    "arrival": "2025-06-30T23:29:23.444190",
+    "price": 281
+  },
+  {
+    "id": 35,
+    "from": "Bangalore",
+    "to": "Chennai",
+    "airline": "SpiceJet",
+    "departure": "2025-06-13T09:22:23.444210",
+    "arrival": "2025-06-13T14:30:23.444210",
+    "price": 680
+  },
+  {
+    "id": 36,
+    "from": "Mumbai",
+    "to": "Pune",
+    "airline": "IndiGo",
+    "departure": "2025-06-16T09:28:23.444229",
+    "arrival": "2025-06-16T12:11:23.444229",
+    "price": 489
+  },
+  {
+    "id": 37,
+    "from": "Mumbai",
+    "to": "Kolkata",
+    "airline": "IndiGo",
+    "departure": "2025-06-23T08:32:23.444255",
+    "arrival": "2025-06-23T14:20:23.444255",
+    "price": 474
+  },
+  {
+    "id": 38,
+    "from": "Hyderabad",
+    "to": "Ahmedabad",
+    "airline": "SpiceJet",
+    "departure": "2025-07-01T00:27:23.444274",
+    "arrival": "2025-07-01T03:29:23.444274",
+    "price": 385
+  },
+  {
+    "id": 39,
+    "from": "Kolkata",
+    "to": "Mumbai",
+    "airline": "IndiGo",
+    "departure": "2025-06-06T16:53:23.444292",
+    "arrival": "2025-06-06T21:34:23.444292",
+    "price": 585
+  },
+  {
+    "id": 40,
+    "from": "Chennai",
+    "to": "Kolkata",
+    "airline": "Go First",
+    "departure": "2025-06-21T22:03:23.444311",
+    "arrival": "2025-06-22T00:22:23.444311",
+    "price": 694
+  },
+  {
+    "id": 41,
+    "from": "Bangalore",
+    "to": "Pune",
+    "airline": "Vistara",
+    "departure": "2025-06-13T13:01:23.444329",
+    "arrival": "2025-06-13T17:47:23.444329",
+    "price": 456
+  },
+  {
+    "id": 42,
+    "from": "Bangalore",
+    "to": "Pune",
+    "airline": "IndiGo",
+    "departure": "2025-06-30T00:52:23.444346",
+    "arrival": "2025-06-30T04:20:23.444346",
+    "price": 353
+  },
+  {
+    "id": 43,
+    "from": "Mumbai",
+    "to": "Hyderabad",
+    "airline": "Air India",
+    "departure": "2025-06-08T19:11:23.444357",
+    "arrival": "2025-06-08T23:26:23.444357",
+    "price": 194
+  },
+  {
+    "id": 44,
+    "from": "Mumbai",
+    "to": "Kolkata",
+    "airline": "IndiGo",
+    "departure": "2025-07-01T13:44:23.444368",
+    "arrival": "2025-07-01T16:53:23.444368",
+    "price": 718
+  },
+  {
+    "id": 45,
+    "from": "Chennai",
+    "to": "Pune",
+    "airline": "AirAsia India",
+    "departure": "2025-06-23T11:38:23.444378",
+    "arrival": "2025-06-23T16:18:23.444378",
+    "price": 797
+  },
+  {
+    "id": 46,
+    "from": "Delhi",
+    "to": "Kolkata",
+    "airline": "Go First",
+    "departure": "2025-06-20T02:39:23.444389",
+    "arrival": "2025-06-20T05:22:23.444389",
+    "price": 820
+  },
+  {
+    "id": 47,
+    "from": "Delhi",
+    "to": "Chennai",
+    "airline": "SpiceJet",
+    "departure": "2025-06-18T09:48:23.444402",
+    "arrival": "2025-06-18T13:07:23.444402",
+    "price": 847
+  },
+  {
+    "id": 48,
+    "from": "Ahmedabad",
+    "to": "Delhi",
+    "airline": "IndiGo",
+    "departure": "2025-06-05T20:48:23.444412",
+    "arrival": "2025-06-05T23:43:23.444412",
+    "price": 253
+  },
+  {
+    "id": 49,
+    "from": "Kolkata",
+    "to": "Mumbai",
+    "airline": "AirAsia India",
+    "departure": "2025-06-06T10:28:23.444423",
+    "arrival": "2025-06-06T15:25:23.444423",
+    "price": 896
+  },
+  {
+    "id": 50,
+    "from": "Kolkata",
+    "to": "Hyderabad",
+    "airline": "Go First",
+    "departure": "2025-06-29T13:22:23.444434",
+    "arrival": "2025-06-29T17:27:23.444434",
+    "price": 824
+  }
+]
