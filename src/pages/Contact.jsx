@@ -1,5 +1,7 @@
 import React from "react";
-
+import { BiSolidPhoneCall } from "react-icons/bi";
+import { IoLocationSharp } from "react-icons/io5";
+import { MdMarkEmailUnread } from "react-icons/md";
 const Contact = () => {
   return (
     <>
@@ -10,8 +12,8 @@ const Contact = () => {
       <div className="md:w-1/2 space-y-6 text-gray-800">
         <h2 className="text-2xl font-bold text-blue-900">Travehub</h2>
 
-        <div className="flex items-start gap-4">
-          <img src="/assets/icons/phone.png" alt="Phone" className="w-6 h-6 mt-1" />
+        <div className="flex items-center gap-4">
+         <BiSolidPhoneCall />
           <div>
             <p className="text-sm text-gray-500">Phone</p>
             <a href="tel:+9199234923847" className="text-cyan-700 font-medium hover:underline">
@@ -21,7 +23,7 @@ const Contact = () => {
         </div>
 
         <div className="flex items-start gap-4">
-          <img src="/assets/icons/email.png" alt="Email" className="w-6 h-6 mt-1" />
+         <MdMarkEmailUnread />
           <div>
             <p className="text-sm text-gray-500">e-Mail Address</p>
             <a href="mailto:ops@travehub.com" className="text-cyan-700 font-medium hover:underline">
@@ -31,7 +33,10 @@ const Contact = () => {
         </div>
 
         <div className="flex items-start gap-4">
-          <img src="/assets/icons/location.png" alt="Location" className="w-6 h-6 mt-1" />
+        <div className="fs-16 ">
+    <IoLocationSharp />
+        </div>
+      
           <div>
             <p className="text-sm">217A-B Block,</p>
             <p className="text-sm">Aya Nagar, Phase 4</p>

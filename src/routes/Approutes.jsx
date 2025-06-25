@@ -30,7 +30,7 @@ export default function AppRoutes() {
       <Route path="/contact" element={<Contact />} />
       <Route path="/flightlist" element={<FlightList />} />
      
-      <Route path="/flight-booking/:id" element={<FlightBookingForm />} />
+      <Route path="/flight-booking" element={<FlightBookingForm />} />
       <Route path="/hotels" element={<HotelResults />} />
       <Route path="/hotel-booking/:id" element={<HotelBookingForm />} />
     </Routes>

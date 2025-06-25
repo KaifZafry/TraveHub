@@ -4,12 +4,12 @@ import { useNavigate } from 'react-router-dom';
 import { FaPlaneDeparture, FaPlaneArrival, FaExchangeAlt, FaCalendarAlt } from 'react-icons/fa';
 
 const FlightBookingForm = () => {
-  const [from, setFrom] = useState('New York');
-  const [to, setTo] = useState('London');
-  const [journeyDate, setJourneyDate] = useState('');
+  const [from, setFrom] = useState('Delhi');
+  const [to, setTo] = useState('Chennai');
+  const [journeyDate, setJourneyDate] = useState('6/22/2025');
   const [returnDate, setReturnDate] = useState('');
   const [passenger, setPassenger] = useState(1);
-  const [travelClass, setTravelClass] = useState('Economy');
+  const [travelClass, setTravelClass] = useState('');
   const [tripType, setTripType] = useState('oneway');
 
   const navigate = useNavigate();
@@ -26,7 +26,7 @@ const FlightBookingForm = () => {
   };
 
   return (
-    <div className="bg-white p-6 rounded-2xl shadow-xl max-w-6xl mx-auto mt-10">
+    <div className="bg-white border border-black mb-8 p-6 rounded-2xl shadow-xl max-w-6xl mx-auto mt-10">
       <div className="flex justify-between">
         <div className="flex gap-4 mb-4">
           <label className="flex items-center gap-2">
@@ -49,7 +49,7 @@ const FlightBookingForm = () => {
         </select>
       </div>
 
-      <div className={`grid relative grid-cols-1 ${tripType === 'twoway' ? 'md:grid-cols-5' : 'md:grid-cols-4'} gap-4`}>
+      <div className={`grid relative grid-cols-1  ${tripType === 'twoway' ? 'md:grid-cols-5' : 'md:grid-cols-4'} gap-4`}>
         <div className="relative bg-purple-50 p-4 rounded-xl">
           <label className="text-sm text-gray-600">From</label>
           <div className="flex items-center gap-2 mt-2 text-xl font-semibold">
@@ -66,9 +66,9 @@ const FlightBookingForm = () => {
         
 
         <div className="relative bg-purple-50 p-4 rounded-xl">
-          <div className="flex justify-center items-center md:absolute top-8 -left-8 z-20">
-          <button onClick={handleSwap} className="bg-purple-200 hover:bg-purple-300 p-3 rounded-full">
-            <FaExchangeAlt className="text-purple-700" />
+          <div className="flex justify-center items-center md:absolute top-8 -left-16 z-20">
+          <button onClick={handleSwap} className="bg-purple-200 hover:bg-blue-300 p-3 rounded-full">
+            <FaExchangeAlt className="text-blue-700" />
           </button>
         </div>
 
@@ -127,7 +127,7 @@ const FlightBookingForm = () => {
       <div className="flex justify-center mt-6">
         <button
           onClick={handleSubmit}
-          className="bg-purple-600 text-white px-8 py-3 rounded-xl text-lg hover:bg-purple-700"
+          className="bg-blue-600 text-white px-8 py-3 rounded-xl text-lg hover:bg-purple-700"
         >
           Search Flights
         </button>

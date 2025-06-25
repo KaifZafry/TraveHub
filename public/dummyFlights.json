@@ -6,6 +6,7 @@
     "airline": "Vistara",
     "departure": "2025-06-22T20:35:23.443442",
     "arrival": "2025-06-22T23:05:23.443442",
+    "img":"/assets/images/vistara.png",
     "price": 180
   },
   {
@@ -13,8 +14,11 @@
     "from": "Delhi",
     "to": "Chennai",
     "airline": "Vistara",
-    "departure": "2025-06-29T20:44:23.443487",
+    "departuretime":"20:44",
+    "arrivalTime": "01:38",
     "arrival": "2025-06-30T01:38:23.443487",
+    "departure": "2025-06-29T20:44:23.443487",
+    "img":"/assets/images/vistara.png",
     "price": 837
   },
   {
@@ -24,6 +28,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-10T21:31:23.443515",
     "arrival": "2025-06-11T01:34:23.443515",
+    "img":"/assets/images/airasia.png",
     "price": 938
   },
   {
@@ -51,6 +56,7 @@
     "airline": "Vistara",
     "departure": "2025-06-24T22:26:23.443569",
     "arrival": "2025-06-25T03:02:23.443569",
+    "img":"/assets/images/vistara.png",
     "price": 794
   },
   {
@@ -105,6 +111,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-07T21:24:23.443672",
     "arrival": "2025-06-07T23:36:23.443672",
+    "img":"/assets/images/airasia.png",
     "price": 733
   },
   {
@@ -123,6 +130,7 @@
     "airline": "Vistara",
     "departure": "2025-07-01T20:54:23.443707",
     "arrival": "2025-07-01T23:27:23.443707",
+    "img":"/assets/images/vistara.png",
     "price": 138
   },
   {
@@ -150,6 +158,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-11T03:53:23.443760",
     "arrival": "2025-06-11T09:32:23.443760",
+    "img":"/assets/images/airasia.png",
     "price": 536
   },
   {
@@ -195,6 +204,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-25T09:30:23.443860",
     "arrival": "2025-06-25T12:04:23.443860",
+    "img":"/assets/images/airasia.png",
     "price": 662
   },
   {
@@ -213,6 +223,7 @@
     "airline": "Vistara",
     "departure": "2025-06-12T17:52:23.443902",
     "arrival": "2025-06-12T21:53:23.443902",
+    "img":"/assets/images/vistara.png",
     "price": 835
   },
   {
@@ -222,6 +233,7 @@
     "airline": "Vistara",
     "departure": "2025-06-08T11:20:23.443921",
     "arrival": "2025-06-08T14:17:23.443921",
+    "img":"/assets/images/vistara.png",
     "price": 933
   },
   {
@@ -231,6 +243,7 @@
     "airline": "Vistara",
     "departure": "2025-06-03T06:16:23.443940",
     "arrival": "2025-06-03T09:27:23.443940",
+    "img":"/assets/images/vistara.png",
     "price": 448
   },
   {
@@ -240,6 +253,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-10T09:40:23.443959",
     "arrival": "2025-06-10T11:52:23.443959",
+    "img":"/assets/images/indigo.png",
     "price": 378
   },
   {
@@ -249,6 +263,7 @@
     "airline": "SpiceJet",
     "departure": "2025-06-14T03:19:23.443979",
     "arrival": "2025-06-14T05:45:23.443979",
+    "img":"/assets/images/spicejet.png",
     "price": 135
   },
   {
@@ -258,6 +273,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-20T12:55:23.443997",
     "arrival": "2025-06-20T18:25:23.443997",
+    "img":"/assets/images/airasia.png",
     "price": 445
   },
   {
@@ -267,6 +283,7 @@
     "airline": "Vistara",
     "departure": "2025-06-21T09:27:23.444017",
     "arrival": "2025-06-21T13:31:23.444017",
+    "img":"/assets/images/vistara.png",
     "price": 416
   },
   {
@@ -276,6 +293,7 @@
     "airline": "Air India",
     "departure": "2025-06-21T21:32:23.444035",
     "arrival": "2025-06-22T03:30:23.444035",
+    "img":"/assets/images/airindia.png",
     "price": 231
   },
   {
@@ -285,6 +303,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-29T21:39:23.444144",
     "arrival": "2025-06-30T02:46:23.444144",
+    "img":"/assets/images/airasia.png",
     "price": 538
   },
   {
@@ -294,6 +313,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-20T11:55:23.444163",
     "arrival": "2025-06-20T13:59:23.444163",
+    "img":"/assets/images/indigo.png",
     "price": 170
   },
   {
@@ -303,6 +323,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-30T20:16:23.444190",
     "arrival": "2025-06-30T23:29:23.444190",
+    "img":"/assets/images/airasia.png",
     "price": 281
   },
   {
@@ -312,6 +333,7 @@
     "airline": "SpiceJet",
     "departure": "2025-06-13T09:22:23.444210",
     "arrival": "2025-06-13T14:30:23.444210",
+    "img":"/assets/images/spicejet.png",
     "price": 680
   },
   {
@@ -321,6 +343,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-16T09:28:23.444229",
     "arrival": "2025-06-16T12:11:23.444229",
+    "img":"/assets/images/indigo.png",
     "price": 489
   },
   {
@@ -330,6 +353,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-23T08:32:23.444255",
     "arrival": "2025-06-23T14:20:23.444255",
+    "img":"/assets/images/indigo.png",
     "price": 474
   },
   {
@@ -339,6 +363,7 @@
     "airline": "SpiceJet",
     "departure": "2025-07-01T00:27:23.444274",
     "arrival": "2025-07-01T03:29:23.444274",
+    "img":"/assets/images/spicejet.png",
     "price": 385
   },
   {
@@ -348,6 +373,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-06T16:53:23.444292",
     "arrival": "2025-06-06T21:34:23.444292",
+    "img":"/assets/images/indigo.png",
     "price": 585
   },
   {
@@ -366,6 +392,7 @@
     "airline": "Vistara",
     "departure": "2025-06-13T13:01:23.444329",
     "arrival": "2025-06-13T17:47:23.444329",
+    "img":"/assets/images/vistara.png",
     "price": 456
   },
   {
@@ -375,6 +402,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-30T00:52:23.444346",
     "arrival": "2025-06-30T04:20:23.444346",
+    "img":"/assets/images/indigo.png",
     "price": 353
   },
   {
@@ -384,6 +412,7 @@
     "airline": "Air India",
     "departure": "2025-06-08T19:11:23.444357",
     "arrival": "2025-06-08T23:26:23.444357",
+    "img":"/assets/images/airindia.png",
     "price": 194
   },
   {
@@ -393,6 +422,7 @@
     "airline": "IndiGo",
     "departure": "2025-07-01T13:44:23.444368",
     "arrival": "2025-07-01T16:53:23.444368",
+    "img":"/assets/images/indigo.png",
     "price": 718
   },
   {
@@ -402,6 +432,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-23T11:38:23.444378",
     "arrival": "2025-06-23T16:18:23.444378",
+    "img":"/assets/images/airasia.png",
     "price": 797
   },
   {
@@ -420,6 +451,7 @@
     "airline": "SpiceJet",
     "departure": "2025-06-18T09:48:23.444402",
     "arrival": "2025-06-18T13:07:23.444402",
+    "img":"/assets/images/spicejet.png",
     "price": 847
   },
   {
@@ -429,6 +461,7 @@
     "airline": "IndiGo",
     "departure": "2025-06-05T20:48:23.444412",
     "arrival": "2025-06-05T23:43:23.444412",
+    "img":"/assets/images/indigo.png",
     "price": 253
   },
   {
@@ -438,6 +471,7 @@
     "airline": "AirAsia India",
     "departure": "2025-06-06T10:28:23.444423",
     "arrival": "2025-06-06T15:25:23.444423",
+    "img":"/assets/images/airasia.png",
     "price": 896
   },
   {
