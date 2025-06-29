@@ -693,9 +693,7 @@ position: absolute;
     background-position: center;
     background-size: cover;
 }
-.section-padding
-Specificity: (0,1,0)
- {
+.section-padding {
     padding: 90px 0;
 }
 
@@ -743,4 +741,35 @@ Specificity: (0,1,0)
 
 .animate-marquee {
   animation: marquee 30s linear infinite;
+}
+
+/* FlightLoader.css */
+.flight-loader-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  font-family: sans-serif;
+  color: #333;
+}
+
+.flight-path {
+  font-size: 3rem;
+  animation: flyAway 2s ease-in-out infinite;
+}
+
+@keyframes flyAway {
+  0% {
+    transform: translate(0, 0) rotate(0deg);
+    opacity: 1;
+  }
+  50% {
+    transform: translate(100px, -50px) rotate(15deg);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translate(200px, -100px) rotate(30deg);
+    opacity: 0;
+  }
 }

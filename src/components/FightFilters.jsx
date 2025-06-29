@@ -54,7 +54,7 @@ export default function FlightFilters({ filters, onChange, options }) {
       {/* Airlines */}
       <div className="mb-4">
         <label className="text-sm font-medium block mb-1">Airlines</label>
-        <div className="h-32 overflow-y-auto pr-1">
+        <div className="h-auto overflow-y-auto pr-1">
           {options.airline.map((air) => (
             <div key={air} className="flex items-center gap-2 my-1">
               <input
